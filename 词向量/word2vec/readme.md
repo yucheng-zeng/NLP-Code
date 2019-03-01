@@ -13,3 +13,5 @@ training.py  为训练模型
 test.py  为测试模型性能
 
 语料库下载地址https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2
+
+已经训练好模型的https://pan.baidu.com/s/1Dy_-lUJIERN9HRPdVRaVzQ
