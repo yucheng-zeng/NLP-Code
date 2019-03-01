@@ -11,3 +11,5 @@ word2vec_sim.py  为计算两篇文章的余弦相似度
 training.py  为训练模型
 
 test.py  为测试模型性能
+
+语料库下载地址https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2
